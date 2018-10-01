@@ -1,0 +1,6 @@
+__author__ = ""
+__copyright__ = ""
+__license__ = ""
+__version__ = ""
+__maintainer__ = ""
+__email__ = ""
