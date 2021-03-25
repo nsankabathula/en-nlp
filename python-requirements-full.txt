@@ -34,7 +34,7 @@ pytest-xdist==1.20.1
 python-coveralls==2.9.1
 python-dateutil==2.6.1
 pytz==2017.2
-PyYAML==3.12
+PyYAML==5.4
 regex==2017.9.23
 requests==2.18.4
 scikit-learn==0.19.1
