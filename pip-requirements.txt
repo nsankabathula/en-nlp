@@ -81,7 +81,7 @@ ptyprocess==0.6.0
 py==1.5.3
 pycountry==18.5.26
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 pyLDAvis==2.1.2
 pyOpenSSL==18.0.0
 pyparsing==2.2.0
