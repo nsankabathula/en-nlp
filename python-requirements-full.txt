@@ -43,6 +43,6 @@ six==1.11.0
 scikit-learn==0.19.1
 tika==1.15
 Unidecode==0.4.21
-urllib3==1.22
+urllib3==1.26.5
 us==1.0.0
 wrapt==1.10.11
